@@ -1,1 +1,1 @@
-# go-grpc
+# go-grpc-rest
